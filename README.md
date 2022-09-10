@@ -25,6 +25,7 @@
 - :no_entry: Delete books in **read** and **unread** sections.
 - :bookmark_tabs: Display a **list** of read books.
 - :books: Move books to **read or unread** section.
+- :mag_right: Search notes by **title**.
 
 ## Screenshots
 ![Example screenshot](./screenshot-bookshelf.png)
