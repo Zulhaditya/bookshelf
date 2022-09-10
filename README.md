@@ -18,7 +18,8 @@
 
 ## Technologies Used
 - HTML5
-- Javascript ES6.
+- CSS3
+- Javascript ES6
 
 ## Features
 - :heavy_plus_sign: Add books by filling in the **title**, **writter** and **years**.
@@ -31,7 +32,7 @@
 ![Example screenshot](./screenshot-bookshelf.png)
 
 ## Setup
-To run this project, running it locally using live-server or open the index.html file
+To run this project, running it locally using live-server or open the index.html file.
 
 ## Project Status
 Project is: _complete._ <!-- / _complete_ / _no longer being worked on_. reason ? -->
